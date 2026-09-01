@@ -1,4 +1,3 @@
-# Sales-Dashboard
 # Sales Dashboard
 
 A Power BI dashboard I built to practice turning raw sales data into something an actual manager could look at and make decisions from.
